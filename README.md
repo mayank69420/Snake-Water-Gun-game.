@@ -1,6 +1,4 @@
-# Snake-Water-Gun-game.
-
-# Snake WATER GUN GAME.
+# Snake-Water-Gun-game
 
 import random
 
